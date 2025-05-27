@@ -4,7 +4,7 @@
   left: 0;
   width: 220px;
   height: 100vh;
-  background-color: #1f1f1f;
+  background-color: #626262;
   color: white;
   padding: 20px;
   display: flex;
@@ -16,12 +16,10 @@
   text-align: center;
 }
 
-.fotoUsuario {
-  width: 80px;
-  height: 80px;
+.fotoUsuario img{
+  width: 170px;
+  height: 170px;
   border-radius: 50%;
-  background-color: #888;
-  margin: 0 auto 10px auto;
 }
 
 .menuOpcoes {
