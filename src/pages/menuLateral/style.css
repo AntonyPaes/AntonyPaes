@@ -1,0 +1,55 @@
+.menuLateral {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100vh;
+  background-color: #626262;
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.perfil {
+  text-align: center;
+}
+
+.fotoUsuario img{
+  width: 170px;
+  height: 170px;
+  border-radius: 50%;
+}
+
+.menuOpcoes {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.menuOpcoes button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.menuOpcoes button:hover {
+  background-color: #333;
+  border-radius: 4px;
+}
+
+#sairButton{
+  font-weight: bold;
+  border-radius: 5px;
+  background-color: red;
+}
+
+#sairButton:hover{
+  background-color: rgb(173, 5, 5);
+}
+

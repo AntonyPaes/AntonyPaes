@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+<<<<<<< HEAD
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 
 import App from "./App";
@@ -52,5 +53,12 @@ ReactDOM.createRoot(document.getElementById("root")).render(
         </Route>
       </Routes>
     </BrowserRouter>
+=======
+import App from "./App.jsx";
+
+ReactDOM.createRoot(document.getElementById("root")).render(
+  <React.StrictMode>
+    <App />
+>>>>>>> 477aebd7f1a136be270118f36fd7caa396abad16
   </React.StrictMode>
 );
