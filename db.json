@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "nome": "Coxim Diesel Toro Compass Renegade Flex",
+      "valor": 245,
+      "imagem": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR46kaYGrdP3hdfVdjfXRM4VcT3IvE_8ULc_g23JfP8Mc5xfugL0Y-v4kJNFJ2Sd8JyCDBFHS4aZnb0U_xA_AJvQ3kL_DCwX0BqiM3mSVPJ74Py4yxcFCub22Gx9keVtrF-WtUgrCZq2w&usqp=CAc",
+      "id": "c49e"
+    },
+    {
+      "nome": "Farol Ram 2500 ",
+      "valor": 10395,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_929150-MLB83595490765_042025-F-farol-full-led-para-ram-2500-e-3500-2019-a-2025-3-globos.webp",
+      "id": "d54d"
+    },
+    {
+      "id": "bfe2",
+      "nome": "Farol Ram 2500 2024",
+      "valor": 9999,
+      "imagem": "https://i.ebayimg.com/images/g/cBoAAOSwgCdoNgc9/s-l1600.webp"
+    },
+    {
+      "id": "21b7",
+      "nome": "Coxim Inferior Cambio Original Toro Compass Diesel",
+      "valor": 299.6,
+      "imagem": "https://http2.mlstatic.com/D_636935-MLB77111949384_062024-I.jpg"
+    },
+    {
+      "id": "95dd",
+      "nome": "Roda Jeep Commander Overland Aro 19 Original",
+      "valor": 2904.17,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_673760-MLB84750572381_052025-F-roda-jeep-commander-overland-aro-19-original.webp"
+    },
+    {
+      "id": "9a9e",
+      "nome": "Lanterna Traseira Jeep Commander 2023 Orignal",
+      "valor": 5783.39,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_927741-MLB77965082339_072024-F-lanterna-traseira-jeep-commander-2022-a-2023.webp"
+    },
+    {
+      "id": "fa9e",
+      "nome": "Lanterna Direita Commander 2023 Original",
+      "valor": 1650,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_773398-MLB78435901672_082024-F-lanterna-direita-commander-2223-50152815-original.webp"
+    },
+    {
+      "id": "6a7d",
+      "nome": "Lanterna Traseira Esquerda Jeep Commander 2021 202",
+      "valor": 2199.98,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_881364-MLB77970121406_082024-F-lanterna-traseira-esquerda-jeep-commander-2021-2024-original.webp"
+    },
+    {
+      "id": "aedc",
+      "nome": "Motor Completo Novo 1.8 Flex E-torq 16v Manual",
+      "valor": 16900,
+      "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_972187-MLB84521223240_052025-F-motor-completo-novo-18-flex-e-torq-16v-manual-toro-renegade.webp"
+    }
+  ]
+}
